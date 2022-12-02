@@ -1,4 +1,4 @@
-with open("Day 1/2.in", "r") as f:
+with open("Day 1/input.in", "r") as f:
     data = f.readlines()
 
 elf_carries = 0
